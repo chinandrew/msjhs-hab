@@ -1,12 +1,85 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Student Websites"
+    url: /studentsites/
+  - title: "Flights"
+    url: /flights/
+  - title: "Media"
+    url: /flight20210313/photos/
+  - title: "About"
+    url: /about/
+
+flight20210313:
+  - title: Background
+    children:
+      - title: "Project Goals"
+        url: /flight20210313/goals/
+      - title: "Timeline"
+        url: /flight20210313/timeline/
+
+  - title: Hardware
+    children:
+      - title: "Regulations"
+        url: /flight20210313/regulations/
+      - title: "Parts Breakdown"
+        url: /flight20210313/parts/
+      - title: "Balloon, Parachute, Rigging"
+        url: /flight20210313/balloonchuterig/
+      - title: "Container"
+        url: /flight20210313/container/
+      - title: "Microcontrollers"
+        url: /flight20210313/microcontrollers/
+      - title: "Sensors"
+        url: /flight20210313/sensors/
+      - title: "Software"
+        url: /flight20210313/software/
+      - title: "Cameras"
+        url: /flight20210313/cameras/
+      - title: "Power Systems"
+        url: /flight20210313/power/
+      - title: "Tracking"
+        url: /flight20210313/tracking/
+
+  - title: Flight and Recovery
+    children:
+      - title: "Preflight Testing and Dry Run"
+        url: /flight20210313/testingdryrun/
+      - title: "Launch Planning"
+        url: /flight20210313/launchplanning/
+      - title: "Launch"
+        url: /flight20210313/launch/
+      - title: "Recovery and Flight Analysis"
+        url: /flight20210313/recoveryanalysis/
+
+  - title: Student Involvement
+    children:
+      - title: "Sensor Development"
+        url: /flight20210313/sensordevelopment/
+      - title: "Data Analysis"
+        url: /flight20210313/data analysis/
+      - title: "Website"
+        url: /flight20210313/website/
+
+  - title: Postmortem and Takeaways
+    children:
+      - title: "General Flight Preparation and Execution"
+        url: /flight20210313/flightpreptakeaways/
+      - title: "Technical Failures"
+        url: /flight20210313/technicalfailures/
+      - title: "Student Activities"
+        url: /flight20210313/studentactivitytakeaways/
+
+
+media:
+  - title: March 13, 2021
+    children:
+      - title: "Photos"
+        url: /flight20210313/photos/
+      - title: "Videos"
+        url: /flight20210313/videos/
+  - title: May 29, 2021
+    children:
+      - title: "Photos"
+        url: /flight20210529/photos/
+      - title: "Videos"
+        url: /flight20210529/videos/
