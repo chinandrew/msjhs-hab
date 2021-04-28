@@ -1,18 +1,17 @@
 ---
 layout: splash
 permalink: /flights/
-title: "Flight History"
+title: "Flights"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash.jpg
-excerpt: Documentation of all our balloon flights.
 
 feature_row:
   - image_path: /assets/images/photo.jpg
     alt: "flight20210313"
     title: "March 13, 2021"
     excerpt: "Our inaugural flight."
-    url: "/flight20210313/goals/"
+    url: "/flight20210313/overviewgoals/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
   - image_path: /assets/images/photo.jpg
@@ -23,5 +22,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Coming soon"  
 ---
+
+Here you can find documentation of all our balloon flights.
 
 {% include feature_row %}

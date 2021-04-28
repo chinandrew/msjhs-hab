@@ -6,14 +6,16 @@ main:
     url: /flights/
   - title: "Media"
     url: /flight20210313/photos/
+  - title: "Data"
+    url: /flight20210313/data/
   - title: "About"
     url: /about/
 
 flight20210313:
   - title: Background
     children:
-      - title: "Project Goals"
-        url: /flight20210313/goals/
+      - title: "Overview and Goals"
+        url: /flight20210313/overviewgoals/
       - title: "Timeline"
         url: /flight20210313/timeline/
 
@@ -51,12 +53,12 @@ flight20210313:
       - title: "Recovery and Flight Analysis"
         url: /flight20210313/recoveryanalysis/
 
-  - title: Student Involvement
+  - title: Student Activities
     children:
       - title: "Sensor Development"
         url: /flight20210313/sensordevelopment/
       - title: "Data Analysis"
-        url: /flight20210313/data analysis/
+        url: /flight20210313/dataanalysis/
       - title: "Website"
         url: /flight20210313/website/
 
@@ -83,3 +85,16 @@ media:
         url: /flight20210529/photos/
       - title: "Videos"
         url: /flight20210529/videos/
+
+
+data:
+  - title: March 13, 2021
+    children:
+      - title: "Data Overview"
+        url: /flight20210313/data/
+      - title: "Analysis 1"
+        url: /flight20210313/analysis/
+  - title: May 29, 2021
+    children:
+      - title: "Data Overview"
+        url: /flight20210529/data/

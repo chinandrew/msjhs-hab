@@ -124,7 +124,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://www.github.com/chinandrew/msjhs-hab"
+      url: # url
 
 
 # Reading Files
