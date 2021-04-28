@@ -12,6 +12,7 @@ main:
     url: /about/
 
 flight20210313:
+  - title: March 13, 2021 Flight
   - title: Background
     children:
       - title: "Overview and Goals"
@@ -21,8 +22,6 @@ flight20210313:
 
   - title: Hardware
     children:
-      - title: "Regulations"
-        url: /flight20210313/regulations/
       - title: "Parts Breakdown"
         url: /flight20210313/parts/
       - title: "Balloon, Parachute, Rigging"

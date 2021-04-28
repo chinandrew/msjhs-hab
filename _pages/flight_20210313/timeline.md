@@ -14,4 +14,4 @@ sidebar:
 | March 2021    | First launch and data analysis assignment finalized.                                                                                                  |
 | April 2021    | Students are assigned and submit their data analysis assignments.                                                                                     |
 
-More details on the student assignment timeslines can be found in the [Student Activites]({{ "/flight20210313/sensordevelopment/" | relative_url }}) section
+More details on the student assignment timeslines can be found in the [Student Activites]({{ "/flight20210313/sensordevelopment/" | relative_url }}) section.

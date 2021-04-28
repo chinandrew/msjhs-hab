@@ -1,5 +1,5 @@
 ---
-title: "March 3, 2021 Data"
+title: "March 13, 2021 Data"
 permalink: /flight20210313/data/
 layout: single
 excerpt: "Data from 2021-03-13 flight."
@@ -7,9 +7,14 @@ sidebar:
   nav: "data"
 ---
 
-Data is available here.
+Data is available [here (`msjhshab_20210313.7z`)]({{ site.url }}{{ site.baseurl }}/assets/data/flight20210313/msjhshab_20210313.7z) as a 7zip archive of CSV files.
+
+Not all sensors were calibrated before flight due to inadequate reference environments. As a result, some of the values presented are the raw sensor reading or the voltage, which are still useful for observing changes in trends. For more information about the sensors flown, see the [Hardware - Sensors]({{ "/flight20210313/sensors/" | relative_url }}) page for this flight.
+
 
 ## Data dictionaries
+
+10 files were generated from the sensors.
 
 `accelerometer.csv`
 

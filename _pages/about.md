@@ -9,7 +9,7 @@ This is the homepage for the Mission San Jose High School High Altitude Balloon 
 
 Our mission is to teach climate science, programming, and data analysis to students by engineering and launching high altitude weather balloons. Students are involved in planning the launches, programming sensors for the payload, and analyzing data once it returns. 
 
-We are run by Dr. Charles Brucker, a geometry and AP computer science teacher, and various students and alumni. For more information on our launches, visit the [Flights]({{ "/flights/" | relative_url }})	page. For questions, contact *email*
+We are run by Dr. Charles Brucker, a geometry and AP computer science teacher, and various students and alumni. For more information on our launches, visit the [Flights]({{ "/flights/" | relative_url }}) page. For questions, contact *email*
 
 
 ## What is a High Altitude Balloon?  
