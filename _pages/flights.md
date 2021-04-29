@@ -16,7 +16,7 @@ feature_row:
     btn_label: "Learn more"  
   - image_path: /assets/images/photo.jpg
     alt: "flight20210529"
-    title: "March 29, 2021"
+    title: "May 29, 2021"
     excerpt: "Coming soon."
     url: "/docs/20210529flight/"
     btn_class: "btn--primary"
