@@ -4,7 +4,7 @@ permalink: /studentsites/
 title: Student Websites
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: /assets/images/header1.jpg
 
 feature_row:
   - image_path: /assets/images/photo.jpg

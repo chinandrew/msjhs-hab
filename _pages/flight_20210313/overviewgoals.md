@@ -7,7 +7,7 @@ sidebar:
   nav: "flight20210313"
 ---
 
-As the first flight in this project, we wanted to make somemthing impactful to students while not overextending ourselves. We had ambitious ideas on how we could determine what experiments were flown and how we could structure the programming assignments, but ultimately decided that a more simple and structured approach to have a solid first launch made the most sense.
+As the first flight in this project, we wanted to make something impactful to students while not overextending ourselves. We had ambitious ideas on how we could determine what experiments were flown and how we could structure the programming assignments, but ultimately decided that a more simple and structured approach to have a solid first launch made the most sense.
 
 At a high level, our goals for this flight were the following:  
 a. In conjunction with existing climate science assignments, provide students with a better understanding of the greenhouse effect and other atmospheric phenomena.  

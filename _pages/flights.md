@@ -4,7 +4,7 @@ permalink: /flights/
 title: "Flights"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: /assets/images/header2.jpg
 
 feature_row:
   - image_path: /assets/images/photo.jpg

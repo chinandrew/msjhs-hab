@@ -25,7 +25,7 @@ flight20210313:
       - title: "Parts Breakdown"
         url: /flight20210313/parts/
       - title: "Balloon, Parachute, Rigging"
-        url: /flight20210313/balloonchuterig/
+        url: /flight20210313/balloonchuterigging/
       - title: "Container"
         url: /flight20210313/container/
       - title: "Microcontrollers"
@@ -80,20 +80,17 @@ media:
         url: /flight20210313/videos/
   - title: May 29, 2021
     children:
-      - title: "Photos"
-        url: /flight20210529/photos/
-      - title: "Videos"
-        url: /flight20210529/videos/
-
+      - title: "Coming Soon"
+        url: 
 
 data:
   - title: March 13, 2021
     children:
       - title: "Data Overview"
         url: /flight20210313/data/
-      - title: "Analysis 1"
-        url: /flight20210313/analysis/
+      - title: "Analyses"
+        url: /flight20210313/analyses/
   - title: May 29, 2021
     children:
-      - title: "Data Overview"
-        url: /flight20210529/data/
+      - title: "Coming Soon"
+        url:
