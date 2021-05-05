@@ -9,6 +9,9 @@ sidebar:
 
 Sorted by elevation, from lowest to highest.
 
+![alt text](https://live.staticflickr.com/65535/51159161358_84b26f0918_k.jpg)
+{: .full}
+
 ![alt text](https://live.staticflickr.com/65535/51158832101_b234a90b12_k.jpg)
 {: .full}
 
