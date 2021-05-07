@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/header1.jpg
 
 feature_row:
-  - image_path: /assets/images/photo.jpg
+  - image_path: 
     alt: "studentsite2021"
     title: "Class of 2021"
-    excerpt: "Group Members"
+    excerpt: 
     url: "https://high-altitude-balloon-website.web.app/"
     btn_class: "btn--primary"
     btn_label: "Visit"  
