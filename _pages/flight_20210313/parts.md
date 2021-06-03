@@ -46,6 +46,6 @@ sidebar:
 
 <sup> \* not weighed, just ballparked</sup>
 
-In addition to the parts flown, we also had a gas tank adapter, [regulator, and scale](https://the-rocketman.com/weather-balloon-inflator/) for inflating the balloon and measuring the lift.
+In addition to the parts flown, we also had a [gas tank adapter](https://www.arc-zone.com/cylinder-adapter-808), [regulator, and scale](https://the-rocketman.com/weather-balloon-inflator/) for inflating the balloon and measuring the lift.
 
 Aside from the balloon, gas, and hand warmers, all parts are reusable for future launches once they are recovered.
